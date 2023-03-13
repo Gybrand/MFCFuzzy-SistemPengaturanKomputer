@@ -1,0 +1,18 @@
+// Machine generated IDispatch wrapper class(es) created by Microsoft Visual C++
+
+// NOTE: Do not modify the contents of this file.  If this class is regenerated
+// by Microsoft Visual C++, your modifications will be overwritten.
+
+#include "pch.h"
+#include "tchart1.h"
+
+/////////////////////////////////////////////////////////////////////////////
+// tchart1
+
+IMPLEMENT_DYNCREATE(tchart1, CWnd)
+
+/////////////////////////////////////////////////////////////////////////////
+// tchart1 Properties
+
+/////////////////////////////////////////////////////////////////////////////
+// tchart1 Operations
